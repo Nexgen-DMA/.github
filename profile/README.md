@@ -10,9 +10,11 @@ Full-service digital marketing agency helping businesses grow with **data-driven
 
 <br/>
 
-<a href="https://nexgendma.com"><img src="https://img.shields.io/badge/Start_a_Project-2563eb?style=for-the-badge&logoColor=white" alt="Start a project"/></a>&nbsp;
-<a href="mailto:hello@nexgendma.com"><img src="https://img.shields.io/badge/hello%40nexgendma.com-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
-<a href="https://nexgendma.com"><img src="https://img.shields.io/badge/nexgendma.com-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<table border="0"><tr>
+<td align="center"><a href="https://nexgendma.com"><b>🚀&nbsp; Start a Project</b></a></td>
+<td align="center"><a href="mailto:hello@nexgendma.com"><b>✉️&nbsp; hello@nexgendma.com</b></a></td>
+<td align="center"><a href="https://nexgendma.com"><b>🌐&nbsp; nexgendma.com</b></a></td>
+</tr></table>
 
 </div>
 
@@ -90,33 +92,34 @@ Email, CRM, funnels and AI-powered workflows that nurture leads while you sleep.
 
 ## Industries We Serve
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/E--Commerce-1e293b?style=flat-square&logo=shopify&logoColor=96bf48"/>
-<img src="https://img.shields.io/badge/SaaS_%26_Tech-1e293b?style=flat-square&logo=rocket&logoColor=60a5fa"/>
-<img src="https://img.shields.io/badge/Real_Estate-1e293b?style=flat-square&logo=homeassistant&logoColor=f59e0b"/>
-<img src="https://img.shields.io/badge/Healthcare-1e293b?style=flat-square&logo=medrt&logoColor=f87171"/>
-<img src="https://img.shields.io/badge/Education-1e293b?style=flat-square&logo=bookstack&logoColor=a78bfa"/>
-<img src="https://img.shields.io/badge/Hospitality-1e293b?style=flat-square&logo=airbnb&logoColor=fb7185"/>
-<img src="https://img.shields.io/badge/Finance-1e293b?style=flat-square&logo=cashapp&logoColor=34d399"/>
-<img src="https://img.shields.io/badge/Local_Business-1e293b?style=flat-square&logo=googlemaps&logoColor=fbbf24"/>
-
-</div>
+<table align="center" border="0">
+<tr>
+<td align="center" width="150">🛍️<br/><b>E-Commerce</b></td>
+<td align="center" width="150">🚀<br/><b>SaaS & Tech</b></td>
+<td align="center" width="150">🏠<br/><b>Real Estate</b></td>
+<td align="center" width="150">🏥<br/><b>Healthcare</b></td>
+</tr>
+<tr>
+<td align="center" width="150">🎓<br/><b>Education</b></td>
+<td align="center" width="150">🏨<br/><b>Hospitality</b></td>
+<td align="center" width="150">💳<br/><b>Finance</b></td>
+<td align="center" width="150">📍<br/><b>Local Business</b></td>
+</tr>
+</table>
 
 <br/>
 
 ## How We Work
 
-```mermaid
-flowchart LR
-    A["01 · Discover<br/>audit, goals, audience"] --> B["02 · Strategy<br/>channels, budget, KPIs"]
-    B --> C["03 · Create<br/>creative, content, build"]
-    C --> D["04 · Launch<br/>campaigns go live"]
-    D --> E["05 · Optimise<br/>test, scale, report"]
-    E -.->|monthly review| B
-    classDef step fill:#0b1220,stroke:#3b82f6,stroke-width:2px,color:#ffffff
-    class A,B,C,D,E step
-```
+<table align="center" border="0">
+<tr>
+<td align="center" width="20%"><h3>01</h3><b>Discover</b><br/><sub>Audit, goals &amp; audience research</sub></td>
+<td align="center" width="20%"><h3>02</h3><b>Strategy</b><br/><sub>Channels, budget &amp; KPIs</sub></td>
+<td align="center" width="20%"><h3>03</h3><b>Create</b><br/><sub>Creative, content &amp; build</sub></td>
+<td align="center" width="20%"><h3>04</h3><b>Launch</b><br/><sub>Campaigns go live</sub></td>
+<td align="center" width="20%"><h3>05</h3><b>Optimise</b><br/><sub>Test, scale &amp; report monthly</sub></td>
+</tr>
+</table>
 
 <br/>
 
@@ -143,10 +146,8 @@ flowchart LR
 <img src="https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=googleanalytics&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Ads-4285F4?style=flat-square&logo=googleads&logoColor=white"/>
 <img src="https://img.shields.io/badge/Meta_Business-0866FF?style=flat-square&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/TikTok_Ads-000000?style=flat-square&logo=tiktok&logoColor=white"/>
 <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Klaviyo-000000?style=flat-square&logo=klaviyo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Semrush-FF642D?style=flat-square&logo=semrush&logoColor=white"/>
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white"/>
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/>
 
@@ -164,10 +165,7 @@ We share the tools, scripts and starter kits we build for our own campaigns. Pub
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111c33,100:0b1220&height=150&text=Ready%20to%20grow%3F&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Book%20a%20free%20strategy%20call%20%E2%80%94%20hello%40nexgendma.com&descAlignY=64&descSize=16&descColor=93c5fd" width="100%" alt="Ready to grow?"/>
 
-<a href="https://nexgendma.com"><img src="https://img.shields.io/badge/🌐_Website-nexgendma.com-2563eb?style=for-the-badge&labelColor=0b1220"/></a>
-<a href="mailto:hello@nexgendma.com"><img src="https://img.shields.io/badge/✉️_Email-hello@nexgendma.com-2563eb?style=for-the-badge&labelColor=0b1220"/></a>
-<a href="https://www.linkedin.com/company/nexgen-dma"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220"/></a>
-<a href="https://www.instagram.com/nexgendma"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0b1220"/></a>
+<b><a href="https://nexgendma.com">🌐 Website</a> &nbsp;·&nbsp; <a href="mailto:hello@nexgendma.com">✉️ Email</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/company/nexgen-dma">💼 LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.instagram.com/nexgendma">📸 Instagram</a></b>
 
 <br/><br/>
 
